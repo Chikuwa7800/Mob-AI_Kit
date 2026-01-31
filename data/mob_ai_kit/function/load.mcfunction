@@ -1,0 +1,1 @@
+scoreboard objectives add mob_ai_kit.entity_id dummy
